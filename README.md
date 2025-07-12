@@ -21,33 +21,30 @@
 
 I'm actively building my Python & Git skills through hands-on projects. Every repo here represents a step on my learning journey from beginner to professional developer.
 
-```javascript
-const dennzy88 = {
-    location: "🇷🇸 Serbia",
-    status: "Beginner Python developer exploring AI, automation, and Git",
-    currentLevel: "Learning step by step",
-    focusAreas: [
-        "🐍 Python fundamentals & OOP",
-        "🔧 Git & GitHub workflows", 
-        "📊 Data analysis & APIs",
-        "🤖 AI & automation tools",
-        "💻 Building real projects"
-    ],
-    currentlyLearning: [
-        "Python data structures & file handling",
-        "Git branching and conflict resolution", 
-        "CSV, JSON, XML, API integration",
-        "LangChain & FastAPI development"
-    ],
-    goals2025: [
-        "Master Python fundamentals",
-        "Build 10+ meaningful projects",
-        "Contribute to open source",
-        "Learn AI/ML basics"
-    ],
-    motto: "One project, one commit at a time! 💪"
-};
-```
+### 📍 Quick Info
+- 🇷🇸 **Location:** Serbia  
+- 🎯 **Status:** Beginner Python developer exploring AI, automation, and Git
+- 📚 **Current Level:** Learning step by step
+- 💪 **Motto:** "One project, one commit at a time!"
+
+### 🔍 Focus Areas
+- 🐍 **Python fundamentals & OOP**
+- 🔧 **Git & GitHub workflows** 
+- 📊 **Data analysis & APIs**
+- 🤖 **AI & automation tools**
+- 💻 **Building real projects**
+
+### 📖 Currently Learning
+- Python data structures & file handling
+- Git branching and conflict resolution 
+- CSV, JSON, XML, API integration
+- LangChain & FastAPI development
+
+### 🎯 Goals 2025
+- Master Python fundamentals
+- Build 10+ meaningful projects
+- Contribute to open source
+- Learn AI/ML basics
 
 ## 🏆 Learning Journey
 
@@ -132,13 +129,12 @@ Dennzy88
 [![FastAPI](https://img.shields.io/badge/FastAPI-Latest-green.svg?style=flat-square)](https://fastapi.tiangolo.com/)
 [![LangChain](https://img.shields.io/badge/LangChain-Latest-orange.svg?style=flat-square)](https://python.langchain.com/)
 
-```
-🚀 My first enterprise-level AI project
-🧠 Learning advanced Python concepts through real implementation
-🔒 Exploring security, testing, and production deployment
-📚 Comprehensive documentation and learning notes
-💡 Bridging the gap from beginner to intermediate developer
-```
+**Key Learning Points:**
+- 🚀 My first enterprise-level AI project
+- 🧠 Learning advanced Python concepts through real implementation
+- 🔒 Exploring security, testing, and production deployment
+- 📚 Comprehensive documentation and learning notes
+- 💡 Bridging the gap from beginner to intermediate developer
 
 **[🔗 View Project](https://github.com/Dennzy88/langchain-fastapi-agent) | [📖 My Learning Notes](https://github.com/Dennzy88/langchain-fastapi-agent#readme)**
 
@@ -150,13 +146,12 @@ Dennzy88
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg?style=flat-square)](https://www.python.org/)
 [![Automation](https://img.shields.io/badge/Automation-Learning-green.svg?style=flat-square)](https://github.com/features/actions)
 
-```
-⚡ Learning automation through practical tools
-🎨 Understanding professional GitHub profiles
-📊 Working with APIs and dynamic content
-🛠️ Building tools that help other developers
-🌱 My contribution to the developer community
-```
+**Key Learning Points:**
+- ⚡ Learning automation through practical tools
+- 🎨 Understanding professional GitHub profiles
+- 📊 Working with APIs and dynamic content
+- 🛠️ Building tools that help other developers
+- 🌱 My contribution to the developer community
 
 **[🔗 View Project](https://github.com/Dennzy88/github-profile-upgrade) | [⚡ Use the Tool](https://github.com/Dennzy88/github-profile-upgrade/blob/main/INSTRUCTIONS.md)**
 
@@ -210,34 +205,20 @@ Dennzy88
 
 ### 🎯 Learning Plan 2025
 
-```python
-class LearningJourney:
-    def __init__(self):
-        self.current_level = "Beginner to Intermediate"
-        self.primary_language = "Python"
-        self.learning_approach = "Project-based learning"
-    
-    def q1_goals(self):
-        return [
-            "Master Python OOP fundamentals",
-            "Complete advanced data analysis projects", 
-            "Build first AI/ML application",
-            "Learn testing and documentation"
-        ]
-    
-    def q2_goals(self):
-        return [
-            "Dive deeper into AI/LangChain",
-            "Learn web development with FastAPI",
-            "Start contributing to open source",
-            "Build portfolio website"
-        ]
-    
-    def long_term_vision(self):
-        return "Become a skilled Python developer specializing in AI and automation"
+#### Q1 2025 Goals
+- 🧩 **Master Python OOP fundamentals**
+- 📊 **Complete advanced data analysis projects**
+- 🤖 **Build first AI/ML application**
+- 🧪 **Learn testing and documentation**
 
-dennzy_journey = LearningJourney()
-```
+#### Q2 2025 Goals  
+- 🧠 **Dive deeper into AI/LangChain**
+- ⚡ **Learn web development with FastAPI**
+- 🌍 **Start contributing to open source**
+- 🌐 **Build portfolio website**
+
+#### Long-term Vision
+> 🎯 **"Become a skilled Python developer specializing in AI and automation"**
 
 ### 🌱 What I'm Working On Right Now
 
@@ -261,21 +242,19 @@ dennzy_journey = LearningJourney()
 
 ### 🚀 Open for Learning Opportunities
 
-```yaml
-Interested in:
-  - 🤝 Collaboration on beginner-friendly projects
-  - 📚 Learning from experienced developers
-  - 🎯 Junior Python developer positions  
-  - 🔧 Open source contributions
-  - 💡 Mentorship and guidance
+#### 🌟 Interested in:
+- 🤝 **Collaboration** on beginner-friendly projects
+- 📚 **Learning** from experienced developers
+- 🎯 **Junior Python developer** positions  
+- 🔧 **Open source** contributions
+- 💡 **Mentorship** and guidance
 
-Willing to help with:
-  - 🐍 Python beginner questions
-  - 🔧 Git/GitHub workflow basics
-  - 📊 Data analysis learning projects
-  - 🤖 AI exploration for beginners
-  - 🌱 Learning journey documentation
-```
+#### 🤲 Willing to help with:
+- 🐍 **Python beginner** questions
+- 🔧 **Git/GitHub workflow** basics
+- 📊 **Data analysis** learning projects
+- 🤖 **AI exploration** for beginners
+- 🌱 **Learning journey** documentation
 
 </div>
 
@@ -322,16 +301,11 @@ Willing to help with:
 - 💡 **Growth mindset** - always learning and improving
 
 ### 🌱 My Learning Approach
-```python
-def learning_approach():
-    return {
-        "method": "Learning by building real projects",
-        "documentation": "Every project teaches something new",
-        "community": "Sharing knowledge and learning from others",
-        "persistence": "Consistent daily progress",
-        "goal": "Becoming a skilled Python/AI developer"
-    }
-```
+- 🛠️ **Method:** Learning by building real projects
+- 📝 **Documentation:** Every project teaches something new  
+- 🤝 **Community:** Sharing knowledge and learning from others
+- 🔄 **Persistence:** Consistent daily progress
+- 🎯 **Goal:** Becoming a skilled Python/AI developer
 
 *Built with ❤️, lots of ☕, and a genuine passion for learning*
 </details>
