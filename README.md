@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub - I'm Dennzy88
+# 👋 Welcome to my GitHub! I'm Dennzy88
 
 <div align="center">
 
@@ -23,12 +23,12 @@ I'm actively building my Python & Git skills through hands-on projects. Every re
 
 ```javascript
 const dennzy88 = {
-    location: "�🇸 Serbia",
+    location: "🇷🇸 Serbia",
     status: "Beginner Python developer exploring AI, automation, and Git",
     currentLevel: "Learning step by step",
     focusAreas: [
         "🐍 Python fundamentals & OOP",
-        "� Git & GitHub workflows", 
+        "🔧 Git & GitHub workflows", 
         "📊 Data analysis & APIs",
         "🤖 AI & automation tools",
         "💻 Building real projects"
@@ -59,9 +59,9 @@ const dennzy88 = {
 
 ### 📈 My Progress
 - 🎯 **8 Repositories** - Each one teaching me something new
-- � **Python Fundamentals** - Working through core concepts systematically  
+- 📚 **Python Fundamentals** - Working through core concepts systematically  
 - 🔧 **Git Skills** - Learning branching, merging, and collaboration
-- � **Data Projects** - Building practical applications with real data
+- 📊 **Data Projects** - Building practical applications with real data
 - 🤖 **AI Exploration** - Starting to explore automation and intelligent tools
 
 ## 🛠️ Tech Stack & Tools I'm Learning
@@ -137,7 +137,7 @@ Dennzy88
 🧠 Learning advanced Python concepts through real implementation
 🔒 Exploring security, testing, and production deployment
 📚 Comprehensive documentation and learning notes
-� Bridging the gap from beginner to intermediate developer
+💡 Bridging the gap from beginner to intermediate developer
 ```
 
 **[🔗 View Project](https://github.com/Dennzy88/langchain-fastapi-agent) | [📖 My Learning Notes](https://github.com/Dennzy88/langchain-fastapi-agent#readme)**
@@ -154,7 +154,7 @@ Dennzy88
 ⚡ Learning automation through practical tools
 🎨 Understanding professional GitHub profiles
 📊 Working with APIs and dynamic content
-�️ Building tools that help other developers
+🛠️ Building tools that help other developers
 🌱 My contribution to the developer community
 ```
 
@@ -162,7 +162,7 @@ Dennzy88
 
 ---
 
-### � Core Learning Projects
+### 📚 Core Learning Projects
 
 | Project | What I Learned | Tech Used | Status |
 |---------|---------------|-----------|--------|
@@ -202,13 +202,13 @@ Dennzy88
 |----------------------|-----------------|-------------------|
 | 🐍 **Python OOP & Advanced Concepts** | Intermediate | Classes, inheritance, decorators |
 | 🔧 **Git & GitHub Workflows** | Beginner → Intermediate | Advanced branching, collaboration |
-| � **Data Analysis & APIs** | Learning | Pandas, requests, data visualization |
+| 📊 **Data Analysis & APIs** | Learning | Pandas, requests, data visualization |
 | 🤖 **AI & Automation** | Just Started | LangChain, FastAPI, automation tools |
-| � **Software Development** | Growing | Testing, deployment, best practices |
+| 💻 **Software Development** | Growing | Testing, deployment, best practices |
 
 </div>
 
-### � Learning Plan 2025
+### 🎯 Learning Plan 2025
 
 ```python
 class LearningJourney:
@@ -242,8 +242,8 @@ dennzy_journey = LearningJourney()
 ### 🌱 What I'm Working On Right Now
 
 - 📖 **Python OOP:** Learning classes, inheritance, and advanced concepts
-- � **Git Mastery:** Practicing branching, merging, and collaboration workflows  
-- � **Data Projects:** Building practical applications with real-world data
+- 🔧 **Git Mastery:** Practicing branching, merging, and collaboration workflows  
+- 📊 **Data Projects:** Building practical applications with real-world data
 - 🤖 **AI Exploration:** Starting with LangChain and FastAPI for intelligent applications
 - 📚 **Best Practices:** Learning testing, documentation, and clean code principles
 
@@ -251,7 +251,7 @@ dennzy_journey = LearningJourney()
 
 <div align="center">
 
-### � Connect With Me
+### 📬 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dennzy88)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
@@ -266,10 +266,10 @@ dennzy_journey = LearningJourney()
 ```yaml
 Interested in:
   - 🤝 Collaboration on beginner-friendly projects
-  - � Learning from experienced developers
+  - 📚 Learning from experienced developers
   - 🎯 Junior Python developer positions  
-  - � Open source contributions
-  - � Mentorship and guidance
+  - 🔧 Open source contributions
+  - 💡 Mentorship and guidance
 
 Willing to help with:
   - 🐍 Python beginner questions
@@ -299,7 +299,7 @@ Willing to help with:
 
 ![](https://komarev.com/ghpvc/?username=Dennzy88&style=for-the-badge&color=brightgreen)
 
-📍 **Belgrade, Serbia** 🇷🇸 | 📬 **github.com/Dennzy88**
+📍 **Subotica, Serbia** 🇷🇸 | 📬 **github.com/Dennzy88**
 
 </div>
 
@@ -351,4 +351,3 @@ This profile represents an authentic learning journey:
 
 Perfect for: recruiters looking for junior developers, mentors, learning collaborations, and fellow beginners
 -->
-
