@@ -55,11 +55,11 @@ I'm actively building my Python & Git skills through hands-on projects. Every re
 </div>
 
 ### 📈 My Progress
-- 🎯 **8 Repositories** - Each one teaching me something new
+- 🎯 **9 Repositories** - Each one teaching me something new
 - 📚 **Python Fundamentals** - Working through core concepts systematically  
 - 🔧 **Git Skills** - Learning branching, merging, and collaboration
 - 📊 **Data Projects** - Building practical applications with real data
-- 🤖 **AI Exploration** - Starting to explore automation and intelligent tools
+- 🤖 **AI Exploration** - Advanced AI projects with real-world applications
 
 ## 🛠️ Tech Stack & Tools I'm Learning
 
@@ -108,11 +108,14 @@ Dennzy88
 ├── 🔹 movie-imdb-api-project
 │   └── CSV + OMDb API integration + XML + top 10 IMDb sorting
 │
-├── 🤖 langchain-fastapi-agent ⭐ NEW
-│   └── Enterprise AI agent with FastAPI backend (Advanced Project)
+├── 🤖 langchain-fastapi-agent ⭐ ADVANCED
+│   └── Enterprise AI agent with FastAPI backend
 │
-├── 🎯 github-profile-upgrade ⭐ NEW  
-│   └── Automated profile enhancement tool (Current Project)
+├── 🤖 bitrix24-ai-assistant ⭐ LATEST
+│   └── AI-powered business assistant with Bitrix24 integration
+│
+├── 🎯 github-profile-upgrade ⭐ TOOLKIT  
+│   └── Automated profile enhancement tool
 │
 └── 🔹 coming soon...
     └── More data, SQL, ML and AI projects on the way
@@ -154,6 +157,27 @@ Dennzy88
 - 🌱 My contribution to the developer community
 
 **[🔗 View Project](https://github.com/Dennzy88/github-profile-upgrade) | [⚡ Use the Tool](https://github.com/Dennzy88/github-profile-upgrade/blob/main/INSTRUCTIONS.md)**
+
+---
+
+#### 🤖 [Bitrix24 AI Assistant](https://github.com/Dennzy88/bitrix24-ai-assistant) ⭐
+**Professional AI-Powered Business Assistant - My Latest Enterprise Project**
+
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg?style=flat-square)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Latest-green.svg?style=flat-square)](https://fastapi.tiangolo.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-orange.svg?style=flat-square)](https://openai.com/)
+[![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg?style=flat-square)](https://www.docker.com/)
+
+**Key Learning Points:**
+- 🚀 My most advanced AI project to date
+- 🏢 Enterprise-level business application development
+- 🐳 Docker containerization and deployment
+- 🔗 Complex API integrations (Bitrix24, OpenAI, SMTP)
+- 📊 Real-time dashboard and calendar management
+- 🔔 Automated notification systems
+- 🛡️ Production-ready security and documentation
+
+**[🔗 View Project](https://github.com/Dennzy88/bitrix24-ai-assistant) | [📖 Full Documentation](https://github.com/Dennzy88/bitrix24-ai-assistant#readme)**
 
 ---
 
