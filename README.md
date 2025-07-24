@@ -2,28 +2,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=DennisForge&color=brightgreen&style=for-t**Key Features:**
-- 🚀 Most sophisticated AI project in portfolio
-- 🏢 Enterprise-scale business application architecture
-- 🐳 Containerized deployment with Docker
-- 🔗 Multi-platform API integrations (Bitrix24, OpenAI, SMTP)
-- 📊 Real-time dashboard and intelligent calendar management
-- 🔔 Advanced notification and workflow automation
-- 🛡️ Production-grade security and comprehensive documentation[AI Marketing Agent 2025](https://github.com/DennisForge/ai-marketing-agent-2025) ⭐
-**Advanced AI Project - Enterprise-Level Marketing Automation**
-
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=flat-square)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-Latest-green.svg?style=flat-square)](https://fastapi.tiangolo.com/)
-[![LangChain](https://img.shields.io/badge/LangChain-Latest-orange.svg?style=flat-square)](https://python.langchain.com/)
-
-**Key Features:**
-- 🚀 Enterprise-level AI agent architecture
-- 🧠 Advanced conversation memory and context management
-- 🔒 Production-ready security and authentication
-- 📚 Comprehensive API documentation and testing
-- 💡 Scalable microservices design pattern
-
-**[🔗 View Project](https://github.com/DennisForge/ai-marketing-agent-2025) | [📖 Technical Documentation](https://github.com/DennisForge/ai-marketing-agent-2025#readme)**tHub followers](https://img.shields.io/github/followers/DennisForge?style=for-the-badge&color=blue)](https://github.com/DennisForge)
+![Profile Views](https://komarev.com/ghpvc/?username=DennisForge&color=brightgreen&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/DennisForge?style=for-the-badge&color=blue)](https://github.com/DennisForge)
 [![GitHub stars](https://img.shields.io/github/stars/DennisForge?style=for-the-badge&color=yellow)](https://github.com/DennisForge)
 
 ### 🎯 Python Developer | AI Specialist | Building Enterprise Solutions
