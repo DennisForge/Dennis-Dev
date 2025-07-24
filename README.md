@@ -335,7 +335,7 @@ Dennzy88
 </details>
 
 <!--
-**Dennzy88/Dennzy88** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+**DennisForge/DennisForge** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
 This profile represents an authentic learning journey:
 - 🚀 Real beginner-to-intermediate progression
@@ -345,5 +345,5 @@ This profile represents an authentic learning journey:
 - 💼 Professional presentation without overstating experience
 - 🌱 Growth mindset and continuous learning approach
 
-Perfect for: recruiters looking for junior developers, mentors, learning collaborations, and fellow beginners
+Perfect for: recruiters looking for junior developers, mentors, learning collaborations
 -->
