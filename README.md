@@ -2,16 +2,16 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dennzy88&color=brightgreen&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/Dennzy88?style=for-the-badge&color=blue)](https://github.com/Dennzy88)
-[![GitHub stars](https://img.shields.io/github/stars/Dennzy88?style=for-the-badge&color=yellow)](https://github.com/Dennzy88)
+![Profile Views](https://komarev.com/ghpvc/?username=DennisForge&color=brightgreen&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/DennisForge?style=for-the-badge&color=blue)](https://github.com/DennisForge)
+[![GitHub stars](https://img.shields.io/github/stars/DennisForge?style=for-the-badge&color=yellow)](https://github.com/DennisForge)
 
 ### 🎯 Python Developer | AI Enthusiast | Learning Every Day
 
 *Building my skills through hands-on projects - one commit at a time* 🚀
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![Connect](https://img.shields.io/badge/Let's_Connect-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dennzy88)
+[![Connect](https://img.shields.io/badge/Let's_Connect-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DennisForge)
 
 </div>
 
@@ -50,7 +50,7 @@ I'm actively building my Python & Git skills through hands-on projects. Every re
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dennzy88&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DennisForge&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=6)
 
 </div>
 
@@ -91,76 +91,47 @@ I'm actively building my Python & Git skills through hands-on projects. Every re
 <div align="center">
 
 ```
-Dennzy88
-│
-├── 🔹 python-core-exercises
-│   └── All foundational Python logic (if, lists, dicts, loops, etc.)
-│
-├── 🔹 github-learning-project
-│   └── Git branch test, conflict resolution, README structure, .gitignore
-│
-├── 🔹 data-analysis-sales
-│   └── Simple app: product manager + cart, CSV, JSON, Git branching
-│
-├── 🔹 personal-diary-analyzer
-│   └── Reads .txt files, analyzes words, sentences, saves reports
-│
-├── 🔹 movie-imdb-api-project
-│   └── CSV + OMDb API integration + XML + top 10 IMDb sorting
-│
-├── 🤖 langchain-fastapi-agent ⭐ ADVANCED
-│   └── Enterprise AI agent with FastAPI backend
+DennisForge
 │
 ├── 🤖 bitrix24-ai-assistant ⭐ LATEST
-│   └── AI-powered business assistant with Bitrix24 integration
+│   └── 🤖 Advanced AI-powered Bitrix24 assistant for automated task management,
+│       intelligent campaign optimization, and comprehensive analytics. Built with Python,
+│       FastAPI, and modern web technologies.
 │
-├── 🎯 github-profile-upgrade ⭐ TOOLKIT  
-│   └── Automated profile enhancement tool
+├── 🤖 langchain-fastapi-agent ⭐ ADVANCED
+│   └── 🤖 Secure AI Agent API with FastAPI, LangChain & GPT-4. Features conversation
+│       memory, advanced security, and comprehensive documentation.
 │
-└── 🔹 coming soon...
-    └── More data, SQL, ML and AI projects on the way
+├── 🔹 python-games-collection
+│   └── Collection of Python games including terminal-based games, quizzes,
+│       and rock-paper-scissors implementations for learning purposes.
+│
+├── 🔹 personal-diary-analyzer
+│   └── Personal diary analysis tool for text processing and insights.
+│
+├── 🔹 system-check
+│   └── Python utility for system performance monitoring and checks
+│       using psutil for system administration tasks.
+│
+├── 🔹 online_sales_analysis
+│   └── Data analysis project for online sales metrics and insights.
+│
+├── 🔹 python-core-exercises
+│   └── Foundational Python exercises covering core programming concepts.
+│
+├── 🔹 movie-imdb-api-project
+│   └── Enriches movie dataset using OMDb API — fetches IMDb ratings, actors,
+│       and vote counts, then exports to XML for data analysis.
+│
+└── 🔹 Dennis-Dev
+    └── GitHub profile repository and development documentation.
 ```
 
 </div>
 
 ### 🌟 Featured Learning Projects
 
-#### 🤖 [LangChain FastAPI Agent](https://github.com/Dennzy88/langchain-fastapi-agent) ⭐
-**My Advanced AI Project - Taking My Skills to the Next Level**
-
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=flat-square)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-Latest-green.svg?style=flat-square)](https://fastapi.tiangolo.com/)
-[![LangChain](https://img.shields.io/badge/LangChain-Latest-orange.svg?style=flat-square)](https://python.langchain.com/)
-
-**Key Learning Points:**
-- 🚀 My first enterprise-level AI project
-- 🧠 Learning advanced Python concepts through real implementation
-- 🔒 Exploring security, testing, and production deployment
-- 📚 Comprehensive documentation and learning notes
-- 💡 Bridging the gap from beginner to intermediate developer
-
-**[🔗 View Project](https://github.com/Dennzy88/langchain-fastapi-agent) | [📖 My Learning Notes](https://github.com/Dennzy88/langchain-fastapi-agent#readme)**
-
----
-
-#### 🎯 [GitHub Profile Upgrade Tool](https://github.com/Dennzy88/github-profile-upgrade) ⭐
-**Learning Automation & Helping Others**
-
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg?style=flat-square)](https://www.python.org/)
-[![Automation](https://img.shields.io/badge/Automation-Learning-green.svg?style=flat-square)](https://github.com/features/actions)
-
-**Key Learning Points:**
-- ⚡ Learning automation through practical tools
-- 🎨 Understanding professional GitHub profiles
-- 📊 Working with APIs and dynamic content
-- 🛠️ Building tools that help other developers
-- 🌱 My contribution to the developer community
-
-**[🔗 View Project](https://github.com/Dennzy88/github-profile-upgrade) | [⚡ Use the Tool](https://github.com/Dennzy88/github-profile-upgrade/blob/main/INSTRUCTIONS.md)**
-
----
-
-#### 🤖 [Bitrix24 AI Assistant](https://github.com/Dennzy88/bitrix24-ai-assistant) ⭐
+#### 🤖 [Bitrix24 AI Assistant](https://github.com/DennisForge/bitrix24-ai-assistant) ⭐
 **Professional AI-Powered Business Assistant - My Latest Enterprise Project**
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg?style=flat-square)](https://www.python.org/)
@@ -171,13 +142,31 @@ Dennzy88
 **Key Learning Points:**
 - 🚀 My most advanced AI project to date
 - 🏢 Enterprise-level business application development
-- 🐳 Docker containerization and deployment
-- 🔗 Complex API integrations (Bitrix24, OpenAI, SMTP)
-- 📊 Real-time dashboard and calendar management
+- � Docker containerization and deployment
+- � Complex API integrations (Bitrix24, OpenAI, SMTP)
+- � Real-time dashboard and calendar management
 - 🔔 Automated notification systems
 - 🛡️ Production-ready security and documentation
 
-**[🔗 View Project](https://github.com/Dennzy88/bitrix24-ai-assistant) | [📖 Full Documentation](https://github.com/Dennzy88/bitrix24-ai-assistant#readme)**
+**[🔗 View Project](https://github.com/DennisForge/bitrix24-ai-assistant) | [📖 Full Documentation](https://github.com/DennisForge/bitrix24-ai-assistant#readme)**
+
+---
+
+#### 🤖 [LangChain FastAPI Agent](https://github.com/DennisForge/langchain-fastapi-agent) ⭐
+**Advanced AI Project - Taking My Skills to the Next Level**
+
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=flat-square)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Latest-green.svg?style=flat-square)](https://fastapi.tiangolo.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-Latest-orange.svg?style=flat-square)](https://python.langchain.com/)
+
+**Key Learning Points:**
+- 🚀 Enterprise-level AI project implementation
+- 🧠 Advanced Python concepts through real implementation
+- � Security, testing, and production deployment
+- � Comprehensive documentation and learning notes
+- � Bridging the gap from beginner to intermediate developer
+
+**[🔗 View Project](https://github.com/DennisForge/langchain-fastapi-agent) | [📖 My Learning Notes](https://github.com/DennisForge/langchain-fastapi-agent#readme)**
 
 ---
 
@@ -185,31 +174,34 @@ Dennzy88
 
 | Project | What I Learned | Tech Used | Status |
 |---------|---------------|-----------|--------|
-| **python-core-exercises** | Python fundamentals, logic, data structures | Python | ✅ Complete |
-| **github-learning-project** | Git workflows, branching, collaboration | Git, GitHub | ✅ Complete |
-| **data-analysis-sales** | File handling, CSV/JSON, practical apps | Python, Data | ✅ Complete |
+| **bitrix24-ai-assistant** | Enterprise AI development, API integrations | Python, FastAPI, OpenAI, Docker | ✅ Complete |
+| **langchain-fastapi-agent** | Advanced AI agents, security, documentation | Python, FastAPI, LangChain | ✅ Complete |
+| **python-games-collection** | Game development, terminal interfaces, learning projects | Python | ✅ Complete |
 | **personal-diary-analyzer** | Text processing, file I/O, reporting | Python | ✅ Complete |
-| **movie-imdb-api-project** | API integration, data manipulation | Python, APIs | ✅ Complete |
+| **system-check** | System monitoring, performance analysis | Python, psutil | ✅ Complete |
+| **online_sales_analysis** | Data analysis, sales metrics | Python | ✅ Complete |
+| **python-core-exercises** | Python fundamentals, logic, data structures | Python | ✅ Complete |
+| **movie-imdb-api-project** | API integration, data manipulation, XML | Python, APIs | ✅ Complete |
 
 ## 📊 GitHub Stats & Learning Progress
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dennzy88&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dennzy88&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DennisForge&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennisForge&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dennzy88&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DennisForge&theme=radical&hide_border=true)
 
 </div>
 
 ### 📈 My Learning Stats
 - 🔥 **Learning Streak:** Consistent daily progress
 - 💻 **Primary Language:** Python (growing expertise)
-- 📚 **Repositories:** 8 projects, each teaching new concepts
+- 📚 **Repositories:** 9 projects, each teaching new concepts
 - 🎯 **Focus Areas:** Python fundamentals → AI development
 - 🤝 **Community:** Building connections in the developer community
 
@@ -257,7 +249,7 @@ Dennzy88
 <div align="center">
 
 ### 📬 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dennzy88)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DennisForge)
 
 ### 🌍 From Serbia 🇷🇸
 *Building skills, one project at a time*
@@ -296,11 +288,11 @@ Dennzy88
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
-⭐️ **From [Dennzy88](https://github.com/Dennzy88)** - *Learning, building, and growing as a developer* 🚀
+⭐️ **From [DennisForge](https://github.com/DennisForge)** - *Learning, building, and growing as a developer* 🚀
 
-![](https://komarev.com/ghpvc/?username=Dennzy88&style=for-the-badge&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=DennisForge&style=for-the-badge&color=brightgreen)
 
-📍 **Subotica, Serbia** 🇷🇸 | 📬 **github.com/Dennzy88**
+📍 **Subotica, Serbia** 🇷🇸 | 📬 **github.com/DennisForge**
 
 </div>
 
