@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub! I'm Dennzy88
+# 👋 Welcome to my GitHub! I'm Dennis
 
 <div align="center">
 
