@@ -2,8 +2,21 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=DennisForge&color=brightgreen&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/DennisForge?style=for-the-badge&color=blue)](https://github.com/DennisForge)
+![Profile Views](https://komarev.com/ghpvc/?username=DennisForge&color=brightgreen&style=for-#### 🤖 [AI Marketing Agent 2025](https://github.com/DennisForge/ai-marketing-agent-2025) ⭐
+**Advanced AI Project - Taking My Skills to the Next Level**
+
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=flat-square)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Latest-green.svg?style=flat-square)](https://fastapi.tiangolo.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-Latest-orange.svg?style=flat-square)](https://python.langchain.com/)
+
+**Key Learning Points:**
+- 🚀 Enterprise-level AI project implementation
+- 🧠 Advanced Python concepts through real implementation
+- 🔒 Security, testing, and production deployment
+- 📚 Comprehensive documentation and learning notes
+- 💡 Bridging the gap from beginner to intermediate developer
+
+**[🔗 View Project](https://github.com/DennisForge/ai-marketing-agent-2025) | [📖 My Learning Notes](https://github.com/DennisForge/ai-marketing-agent-2025#readme)**itHub followers](https://img.shields.io/github/followers/DennisForge?style=for-the-badge&color=blue)](https://github.com/DennisForge)
 [![GitHub stars](https://img.shields.io/github/stars/DennisForge?style=for-the-badge&color=yellow)](https://github.com/DennisForge)
 
 ### 🎯 Python Developer | AI Enthusiast | Learning Every Day
@@ -98,7 +111,7 @@ DennisForge
 │       intelligent campaign optimization, and comprehensive analytics. Built with Python,
 │       FastAPI, and modern web technologies.
 │
-├── 🤖 langchain-fastapi-agent ⭐ ADVANCED
+├── 🤖 ai-marketing-agent-2025 ⭐ ADVANCED
 │   └── 🤖 Secure AI Agent API with FastAPI, LangChain & GPT-4. Features conversation
 │       memory, advanced security, and comprehensive documentation.
 │
@@ -175,7 +188,7 @@ DennisForge
 | Project | What I Learned | Tech Used | Status |
 |---------|---------------|-----------|--------|
 | **bitrix24-ai-assistant** | Enterprise AI development, API integrations | Python, FastAPI, OpenAI, Docker | ✅ Complete |
-| **langchain-fastapi-agent** | Advanced AI agents, security, documentation | Python, FastAPI, LangChain | ✅ Complete |
+| **ai-marketing-agent-2025** | Advanced AI agents, security, documentation | Python, FastAPI, LangChain | ✅ Complete |
 | **python-games-collection** | Game development, terminal interfaces, learning projects | Python | ✅ Complete |
 | **personal-diary-analyzer** | Text processing, file I/O, reporting | Python | ✅ Complete |
 | **system-check** | System monitoring, performance analysis | Python, psutil | ✅ Complete |
